@@ -1,7 +1,11 @@
 <br> 0.	Write a program to Print your name.
+<br>
 <br>Expression
+<br>
 <br> 1.	Write a program to Add two numbers
+<br>
 <br> Functions
+<br>
 <br> 2.	Add two number using 4 function	using Pass by value
 		<br>int input();
 		<br> int add(int a, int b);
