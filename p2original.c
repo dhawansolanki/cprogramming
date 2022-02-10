@@ -1,4 +1,5 @@
 // 2.	Write a program to add two number using 4 function	(pass by value)
+
 #include <stdio.h>
 int input()
 {
