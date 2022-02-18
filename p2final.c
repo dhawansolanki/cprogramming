@@ -10,7 +10,6 @@ int input()
 
 }
 
-
 int find_sum(int a, int b)
 {
     int sum;
