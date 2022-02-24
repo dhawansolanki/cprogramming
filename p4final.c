@@ -1,8 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
 int input()
 {
   int a;
-  printf("enter the number:");
+  printf("Enter the number : ");
   scanf("%d",&a);
   return a;
 }
@@ -20,7 +20,7 @@ int cmp(int a,int b,int c)
 }
 void output(int a,int b,int c,int largest)
 {
-  printf("the greatest number of %d,%d,%d is %d",a,b,c,largest);
+  printf("The Greatest Number of %d,%d,%d is %d \n",a,b,c,largest);
 }
 int main()
 {
